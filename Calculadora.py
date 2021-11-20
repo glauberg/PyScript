@@ -1,5 +1,7 @@
 #!/usr/bin/python
 #decoding: latin1
+# Calculadora básica
+#
 
 valor1 = int(input("Digite o primeiro valor: "))
 valor2 = int(input("Digite o segundo valor: "))

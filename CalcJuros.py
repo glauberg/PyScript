@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # decoding: latin1
 # Calcular juros a partir de um valor
+#
 
 def calcula(a,b,c):
     juros_dia = (c/30)/100
